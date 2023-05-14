@@ -5,5 +5,11 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+    <style name="Theme.CafeterosAppLogin" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="background">@color/cafeteros_primary</item>
+    </style>
+
     <style name="Theme.CafeterosApp" parent="Base.Theme.CafeterosApp" />
+
+
 </resources>

@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CafeterosApp</string>
+    <string name="cafeteros_name">Cafeteros</string>
+    <string name="cafeteros_slogan">Impulsando la caficultura colombiana</string>
+    <string name="cafeteros_login">Login</string>
+    <string name="cafeteros_description_logo">CAFETEROS application logo</string>
+    <string name="cafeteros_description_btlogin">go to test login</string>
 </resources>
