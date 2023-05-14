@@ -2,4 +2,16 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    /* Cafeteros text and primary color */
+    <color name="cafeteros_general_text">#0B0B0D</color>
+    <color name="cafeteros_background_unselect_button">#474A56</color>
+    <color name="cafeteros_background_input">#929AAB</color>
+    <color name="cafeteros_background">#DBD8E3</color>
+    <color name="cafeteros_primary">#F7F7F7</color>
+
+    /* Cafeteros secondary color */
+    <color name="cafeteros_green">#40982A</color>
+    <color name="cafeteros_yellow">#C4AE2F</color>
+    <color name="cafeteros_red">#B10D2F</color>
 </resources>
